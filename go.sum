@@ -1,0 +1,5 @@
+github.com/gostaticanalysis/testutil v0.0.0-20190308165151-352061e1ba8c h1:tm1bj/ZLA5YQIc33pvHwhZ8gt1XJb34Md5PXZLZAzis=
+github.com/gostaticanalysis/testutil v0.0.0-20190308165151-352061e1ba8c/go.mod h1:6dnfVtdzHaKguYhBO/9DQrWcGfyZocsw7IS/bLgaC/M=
+golang.org/x/net v0.0.0-20190213061140-3a22650c66bd/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
+golang.org/x/tools v0.0.0-20190308142131-b40df0fb21c3 h1:GPRyd2anWNtiuo1j4VS6+tIW4Qu5bCWKy4sjzUf/3oI=
+golang.org/x/tools v0.0.0-20190308142131-b40df0fb21c3/go.mod h1:25r3+/G6/xytQM8iWZKq3Hn0kr0rgFKPUNVEL/dr3z4=
